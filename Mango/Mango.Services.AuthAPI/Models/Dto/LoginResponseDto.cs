@@ -1,6 +1,4 @@
-﻿using Mango.Services.AuthAPI.Models.Dto;
-
-namespace Mango.Services.AuthAPI.Models
+﻿namespace Mango.Services.AuthAPI.Models.Dto
 {
     public class LoginResponseDto
     {
